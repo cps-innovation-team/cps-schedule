@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "c3c886e84e25cc1014226ef5f9ae4932"
+build_time: [1623809189, 946730000]
+inputs:
+  "/Users/RahimMalik/Library/Mobile Documents/com~apple~CloudDocs/App/CPS Schedule/Schedule/QuickLinksWidgetiOS/QuickLinksWidgetiOS.swift": [1616458504, 94095678]
+  "/Users/RahimMalik/Library/Mobile Documents/com~apple~CloudDocs/App/CPS Schedule/Schedule/Build/Intermediates.noindex/Schedule.build/Debug-iphoneos/QuickLinksWidgetiOSExtension.build/DerivedSources/IntentDefinitionGenerated/QuickLinksWidgetiOS/QuickLinkSelectionIntent.swift": [1623809189, 919266014]
+  "/Users/RahimMalik/Library/Mobile Documents/com~apple~CloudDocs/App/CPS Schedule/Schedule/Build/Intermediates.noindex/Schedule.build/Debug-iphoneos/QuickLinksWidgetiOSExtension.build/DerivedSources/IntentDefinitionGenerated/QuickLinksWidgetiOS/QuickLink.swift": [1623809189, 921104151]

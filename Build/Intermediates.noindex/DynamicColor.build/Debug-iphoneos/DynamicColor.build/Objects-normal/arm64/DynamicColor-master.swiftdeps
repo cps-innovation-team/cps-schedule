@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "af121bb5bd939746bf2283efdf159693"
+build_time: [1623809186, 570444000]
+inputs:
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/Array.swift": [1623809165, 355020075]
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/ContrastDisplayContext.swift": [1623809165, 355286099]
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/DynamicColor+Deriving.swift": [1623809165, 355517954]
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/DynamicColor+HSB.swift": [1623809165, 355961103]
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/DynamicColor+HSL.swift": [1623809165, 356210834]
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/DynamicColor+Lab.swift": [1623809165, 356417610]
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/DynamicColor+Mixing.swift": [1623809165, 356647582]
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/DynamicColor+RGBA.swift": [1623809165, 356968641]
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/DynamicColor+XYZ.swift": [1623809165, 357218560]
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/DynamicColor.swift": [1623809165, 357489064]
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/DynamicColorSpace.swift": [1623809165, 357785075]
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/DynamicGradient.swift": [1623809165, 358083163]
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/HSL.swift": [1623809165, 358335940]
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/SwiftUIColor.swift": [1623809165, 358572843]
+  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/DynamicColor/Sources/Utils.swift": [1623809165, 358805831]

@@ -1,0 +1,6 @@
+framework module Pods_Schedule__iOS_ {
+  umbrella header "Pods-Schedule (iOS)-umbrella.h"
+
+  export *
+  module * { export * }
+}
