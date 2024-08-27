@@ -1,9 +1,0 @@
-version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
-options: "c1f703374ba451d70fca215c02863fbe"
-build_time: [1623809186, 570116000]
-inputs:
-  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/Pages/Sources/Pages/ModelPages.swift": [1623809166, 59109685]
-  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/Pages/Sources/Pages/PageControl.swift": [1623809166, 59474781]
-  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/Pages/Sources/Pages/PageViewController.swift": [1623809166, 59733400]
-  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/Pages/Sources/Pages/Pages.swift": [1623809166, 59998037]
-  "/Users/RahimMalik/Library/Developer/Xcode/DerivedData/Schedule-edmowhelyyzalzekldaheurotyrh/SourcePackages/checkouts/Pages/Sources/Pages/PagesBuilder.swift": [1623809166, 60416912]

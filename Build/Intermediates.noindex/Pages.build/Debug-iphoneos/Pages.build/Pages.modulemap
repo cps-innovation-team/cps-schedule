@@ -1,4 +1,0 @@
-module Pages {
-header "Pages-Swift.h"
-export *
-}

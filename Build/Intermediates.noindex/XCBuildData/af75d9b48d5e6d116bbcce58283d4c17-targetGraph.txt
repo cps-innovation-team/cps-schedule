@@ -1,9 +1,0 @@
-Target dependency graph (5 targets)
-Pods-Schedule (iOS) in Pods
-Pods-Schedule (macOS) in Pods
-QuickLinksWidgetiOSExtension in Schedule
-Schedule (iOS) in Schedule, depends on:
-QuickLinksWidgetiOSExtension in Schedule (explicit)
-Pods-Schedule (iOS) in Pods (implicit dependency via file 'Pods_Schedule__iOS_.framework' in build phase 'Link Binary'
-Schedule (macOS) in Schedule, depends on:
-Pods-Schedule (macOS) in Pods (implicit dependency via file 'Pods_Schedule__macOS_.framework' in build phase 'Link Binary'
